@@ -6,3 +6,12 @@ You can find all the tutorials [here
 
 
 Made by: Cleber Couto Filho, 2016, Salvador, Bahia, Brazil
+
+- Commands
+
+```
+roscore
+source devel/setup.bash
+rosrun turtlesim turtlesim_node
+rosrun turtlesim_cleaner move.py
+```
